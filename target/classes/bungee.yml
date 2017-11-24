@@ -1,0 +1,4 @@
+name: ProStaff
+version: 1.0-SNAPSHOT
+main: me.enderaura.prostaff.bungee.ProStaffBungee
+author: [Enderaura]

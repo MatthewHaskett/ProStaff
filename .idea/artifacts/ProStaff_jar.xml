@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProStaff:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProStaff_jar</output-path>
+    <root id="archive" name="ProStaff.jar">
+      <element id="module-output" name="ProStaff" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

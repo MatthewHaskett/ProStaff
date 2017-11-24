@@ -1,0 +1,10 @@
+name: ProStaff
+version: ${project.version}
+main: me.enderaura.prostaff.ProStaff
+authors: [Enderaura]
+description: The ultimate free staff plugin to keep your server going!
+
+commands:
+  prostaff:
+    permission: prostaff.staff
+    description: Open the ProStaff menu!

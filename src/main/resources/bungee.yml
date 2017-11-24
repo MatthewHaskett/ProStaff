@@ -1,0 +1,4 @@
+name: ProStaff
+version: ${project.version}
+main: me.enderaura.prostaff.bungee.ProStaffBungee
+author: [Enderaura]
